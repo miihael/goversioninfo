@@ -1,7 +1,7 @@
 GoVersionInfo
 ==========
 
-[![Go Report Card](https://goreportcard.com/badge/github.com/josephspurrier/goversioninfo)](https://goreportcard.com/report/github.com/josephspurrier/goversioninfo) [![Build Status](https://travis-ci.org/josephspurrier/goversioninfo.svg)](https://travis-ci.org/josephspurrier/goversioninfo) [![Coverage Status](https://coveralls.io/repos/josephspurrier/goversioninfo/badge.svg)](https://coveralls.io/r/josephspurrier/goversioninfo) [![GoDoc](https://godoc.org/github.com/josephspurrier/goversioninfo?status.svg)](https://godoc.org/github.com/josephspurrier/goversioninfo)
+[![Go Report Card](https://goreportcard.com/badge/github.com/miihael/goversioninfo)](https://goreportcard.com/report/github.com/josephspurrier/goversioninfo) [![Build Status](https://travis-ci.org/josephspurrier/goversioninfo.svg)](https://travis-ci.org/josephspurrier/goversioninfo) [![Coverage Status](https://coveralls.io/repos/josephspurrier/goversioninfo/badge.svg)](https://coveralls.io/r/josephspurrier/goversioninfo) [![GoDoc](https://godoc.org/github.com/josephspurrier/goversioninfo?status.svg)](https://godoc.org/github.com/josephspurrier/goversioninfo)
 
 Microsoft Windows File Properties/Version Info and Icon Resource Generator for the Go Language
 
@@ -15,7 +15,7 @@ Example of the file properties you can set using this package:
 
 To install, run the following command:
 ~~~
-go get github.com/josephspurrier/goversioninfo/cmd/goversioninfo
+go get github.com/miihael/goversioninfo/cmd/goversioninfo
 ~~~
 
 Copy testdata/resource/versioninfo.json into your working directory and then modify the file with your own settings.
