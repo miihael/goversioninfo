@@ -1,4 +1,4 @@
-module github.com/josephspurrier/goversioninfo
+module github.com/miihael/goversioninfo
 
 go 1.16
 
