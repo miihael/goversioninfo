@@ -185,7 +185,7 @@ func main() {
 
 	// If platform specific, then output all the architectures for Windows.
 	if flagPlatformSpecific != nil && *flagPlatformSpecific {
-		archs = []string{"386", "amd64"}
+		archs = []string{"386", "amd64", "arm"}
 	} else {
 		// Set the architecture, defaulted to 32-bit.
 		archs = []string{"386"} // 32-bit
